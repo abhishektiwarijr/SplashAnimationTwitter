@@ -2,4 +2,4 @@
 A sample project to demonstrate splash animation like twitter.
 
 # Demo
-![](SplashAnimationTwitter/untitled.gif)
+![](https://github.com/abhishektiwarijr/SplashAnimationTwitter/master/untitled.gif)
